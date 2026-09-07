@@ -28,8 +28,14 @@ $\color{#006400}{\textsf{✧𝙳𝚗𝚌⁠✧}}$
 <div align="center">
  <img width="172" height="240" alt="Image" src="https://github.com/user-attachments/assets/791aa373-5814-4ab6-9634-c1af07a0b4c4" />.                       <img width="172" height="240" alt="Image" src="https://github.com/user-attachments/assets/6e261a37-919d-49a6-96e2-45f02664861a" />
 </p>
+<div align="center">
+     
+ $\color{#7CFC00}{\textsf{↑}}$
+     
+<div align="center">
+ 
+ $\color{#7CFC00}{\textsf{✩ 𝙼𝚢 𝚖𝚊𝚒𝚗𝚜 ✩}}$
 
-✩ 𝙼𝚢 𝚖𝚊𝚒𝚗𝚜 ✩
 
 
 
