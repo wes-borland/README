@@ -6,21 +6,22 @@
 </div>
 
 <table>
-
-
-   
-
+</p>
+</p>
+ </p> 
+</p>
           
 <div align="center">                        
 <img width="854" height="730" alt="Image" src="https://github.com/user-attachments/assets/e0de201d-7dda-417f-b44a-7397a70ad56d" />
 
  　✦⠀ ⠀ [strawpage](https://chrischino.straw.page)  ⠀
 
-
-
-
-
-
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
 
 $\color{#a9d6ff}{\textsf{𝙳𝚗𝚌}}$
 
@@ -33,12 +34,12 @@ $\color{#a9d6ff}{\textsf{𝙳𝚗𝚌}}$
 
 
 
-
+</p>
 
 <div align="center">
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/0990e64f-b179-44ae-8f43-e0e05bd6efad" />
+<img width="250" height="80" alt="Image" src="https://github.com/user-attachments/assets/0990e64f-b179-44ae-8f43-e0e05bd6efad" />
 
-
+</p>
 
 
 
