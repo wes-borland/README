@@ -36,7 +36,7 @@ $\color{#a9d6ff}{\textsf{𝙳𝚗𝚌}}$
 
 
 <div align="center">
-<img width="699" height="143" alt="Image" src="https://github.com/user-attachments/assets/0990e64f-b179-44ae-8f43-e0e05bd6efad" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/0990e64f-b179-44ae-8f43-e0e05bd6efad" />
 
 
 
