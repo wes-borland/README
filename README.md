@@ -39,7 +39,7 @@ $\color{#a9d6ff}{\textsf{𝙳𝚗𝚌}}$
 <img width="770" height="767" alt="Image" src="https://github.com/user-attachments/assets/4eab0339-e2da-4b0a-abd2-e83635c905b9" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0000000&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107C10,100:107C10&height=2&section=header"/>
 
 
 
