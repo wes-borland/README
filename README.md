@@ -22,3 +22,25 @@ $\color{#a9d6ff}{\textsf{𝙳𝚗𝚌}}$
 </p>
 
 ✩ 𝙼𝚢 𝚖𝚊𝚒𝚗𝚜 ✩
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<img width="770" height="767" alt="Image" src="https://github.com/user-attachments/assets/4eab0339-e2da-4b0a-abd2-e83635c905b9" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+
+
+
+
