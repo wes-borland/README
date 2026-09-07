@@ -1,7 +1,8 @@
-________________________________________________________________________________________________
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107C10,100:107C10&height=2&section=header"/>
 
      
-   <p align="center">$\color{#a9d6ff}{\textsf{｡⁠.ﾟ______________｡⁠.ﾟ⁠+}$      
+   
 
           
 <div align="center">                        
